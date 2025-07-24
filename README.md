@@ -95,5 +95,6 @@ This extension combines **AI-powered article summarization** (via Google's Gemin
 
 #OUTPUT
 
+<img width="562" height="601" alt="Image" src="https://github.com/user-attachments/assets/9815c8c2-9059-4679-9ae3-24258b29d8e5" />
 
  
