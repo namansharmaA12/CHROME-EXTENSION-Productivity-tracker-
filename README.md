@@ -16,7 +16,7 @@ MENTOR: NEELA SANTOSH
 
 #DESCRIPTION
 
-Welcome to the **AI Summary for Articles + Productivity Tracker** Chrome Extension!  
+Welcome to the Productivity Tracker Chrome Extension!  
 This extension combines **AI-powered article summarization** (via Google's Gemini API) with powerful **productivity tools**, including:
 
 - AI Summarizer** – Quickly summarize any web article into a brief, detailed, or bullet-point summary.
